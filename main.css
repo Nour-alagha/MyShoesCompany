@@ -124,21 +124,23 @@ body {
 .leftcolumn {
     float: left;
     width: 75%;
+    padding-left: 300px;
+    
 }
 
 /* Right column */
 
 .rightcolumn {
-    float: left;
-    width: 75%;
+
+    width:75%;
     background-color: #f1f1f1;
-    padding-left: 20px;
+    padding-left: 300px;
 }
 
 .fakeimg {
     background-color: #aaa;
     width: 100%;
-    padding: 20px;
+    padding: 100px;
 }
 
 /* Add a card effect for articles */
